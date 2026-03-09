@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "RivieriaSMP.aternos.me:18569",
+    "port": 18569,
     "version": "1.21.1"
   },
   "position": {
